@@ -1,8 +1,8 @@
 # k8s
 Using these configuration files, you can deploy your own Multi Container Application.
 First of all, you need to setup a kubernetes cluster. There are several ways to do this like single node setup using minikube or cluster setup using kubeadm on local VM or on Cloud.
-For single node setup, download minikube installer file for windows from here https://github.com/kubernetes/minikube/releases/latest/download/minikube-installer.exe
-For Linux and MacOS Users follow the steps from here https://kubernetes.io/docs/tasks/tools/install-minikube/
+* For single node setup, download minikube installer file for windows from here https://github.com/kubernetes/minikube/releases/latest/download/minikube-installer.exe
+* For Linux and MacOS Users follow the steps from here https://kubernetes.io/docs/tasks/tools/install-minikube/
 
 ## After then
 Clone this repository to create multi container app. And run command
