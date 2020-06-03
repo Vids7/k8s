@@ -7,4 +7,5 @@ First of all, you need to setup a kubernetes cluster. There are several ways to 
 # After then
 Clone this repository to create multi container app. And run command
 ## kubectl apply -f .
-This will creates all the services and depployments. Then you can run your app inside browser on 192.168.43.100 (This might be different in your case...you can check it by using command ***  #minikube ip  *** )
+This will creates all the services and depployments. Then you can run your app inside browser on 192.168.43.100 This might be different in your case...you can check it by using command
+## minikube ip
